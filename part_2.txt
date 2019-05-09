@@ -1,0 +1,5 @@
+$ IFS=x
+$ echo foo${IFS#y}bar
+foo bar
+$ echo foo${IFS#x}bar
+foobar
