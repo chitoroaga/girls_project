@@ -27,3 +27,7 @@ cat ${MYSQLDUMP} |         # Output MYSQLDUMP file
  tr "\n" "," |
  sed -e 's/,\([0-9]*-[0-9]*-[0-9]*\)/\n\1/g' -e 's/,$//' |   # 
  sed -e 's/^/"/g' -e 's/$/"/g' -e 's/,/","/g' >> ${CSV}
+
+
+
+Modificarile executate de veronica!!!
