@@ -25,5 +25,5 @@ cat ${MYSQLDUMP} |         # Output MYSQLDUMP file
  sed -n -e '/^"/p' -e '/^print_value$/,/^option_id$/p' |
  sed -e '/^option_id/d' -e '/^print_value/d' -e 's/^"\(.*\)"$/\1/' |
  tr "\n" "," |
- sed -e 's/,\([0-9]*-[0-9]*-[0-9]*\)/\n\1/g' -e 's/,$//' |   # hate phone numbers
+ sed -e 's/,\([0-9]*-[0-9]*-[0-9]*\)/\n\1/g' -e 's/,$//' |   # 
  sed -e 's/^/"/g' -e 's/$/"/g' -e 's/,/","/g' >> ${CSV}
