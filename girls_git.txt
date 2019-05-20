@@ -3,3 +3,6 @@ println ("Gotcha Veronica!!!!!!!!!")
 println ("Alright then")
 
 println ("New Git in new our office")
+
+
+Primele modificri facute de veronica in oficiul nou
