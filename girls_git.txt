@@ -27,3 +27,5 @@ Hai ca parca ne descurcam a zis veronica!
 *-*-*-*-*-*-*
 
 println ("just this")
+
+the same situation
