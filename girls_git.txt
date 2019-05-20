@@ -1,18 +1,29 @@
 println ("Gotcha Veronica!!!!!!!!!")
 
+*-*-*-*-*-*
+
 println ("Alright then")
+
+*-*-*-*-*-*-*
 
 println ("New Git in new our office")
 
+*-*-*-*-*-*-*
 
 Primele modificri facute de veronica in oficiul nou
 
+*-*-*-*-*-*-*
+
 Never stop believe it!!!
+
+*-*-*-*-*-*-*
 
 Din a treia oara precis o sa se primeasca ceva a spus veronica!
 
+*-*-*-*-*-*-*
 
 Hai ca parca ne descurcam a zis veronica!
 
+*-*-*-*-*-*-*
 
 println ("just this")
