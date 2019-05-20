@@ -30,3 +30,5 @@ println ("just this")
 
 
 CONFLICT TIME!
+
+Noi deja am rezolvat conflictul
