@@ -1,8 +1,5 @@
+println ("Gotcha Veronica!!!!!!!!!")
 
+println ("Alright then")
 
-
-gotcha Veronica!!!!!!!!!
-
-Alright then
-
-New Git in new our office
+println ("New Git in new our office")
